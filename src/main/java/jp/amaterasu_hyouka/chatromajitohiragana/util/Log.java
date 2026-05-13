@@ -1,4 +1,4 @@
-package jp.amaterasu_hyouka.chatromajitohiragana;
+package jp.amaterasu_hyouka.chatromajitohiragana.util;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
