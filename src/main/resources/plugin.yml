@@ -1,0 +1,6 @@
+name: ChatRomajiToHiragana
+version: '1.0.0'
+main: jp.amaterasu_hyouka.chatromajitohiragana.ChatRomajiToHiraganaPlugin
+api-version: '1.21.11'
+authors: [amaterasu_hyouka]
+description: Minecraftのローマ字で送信されたチャットをひらがなに変換するplugin
